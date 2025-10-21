@@ -22,7 +22,7 @@
 ---
 
 ## 🌐 Onde me encontrar
-📎 [LinkedIn](https://www.linkedin.com/in/nataniel-antonio-da-rosa/) 
+📎 [LinkedIn](https://www.linkedin.com/in/nataniel-antonio-da-rosa/)   
 📧 **Email:** natanielros@gmail.com  
 🛠️ [Projetos fixados no topo do perfil](https://github.com/natanros?tab=repositories)
 
