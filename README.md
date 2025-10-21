@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Nataniel!
 
-💻 **Analista de Sistemas** com experiência em Protheus e ADVPL, atualmente focado em **JavaScript, TypeScript, Node.js e React.js**.  
+💻 **Analista de Sistemas** com experiência em **JavaScript, TypeScript, Node.js e React.js** , atualmente focado em **Protheus** e **ADVPL**.  
 🎯 Apaixonado por resolver problemas com código e construir soluções inteligentes para o mundo real.
 
 ---
@@ -22,8 +22,8 @@
 ---
 
 ## 🌐 Onde me encontrar
-📎 [LinkedIn](https://www.linkedin.com/in/nataniel-da-rosa)  
-📧 **Email:** nataniel@example.com  
+📎 [LinkedIn]((https://www.linkedin.com/in/nataniel-antonio-da-rosa/)) 
+📧 **Email:** natanielros@gmail.com  
 🛠️ [Projetos fixados no topo do perfil](https://github.com/natanros?tab=repositories)
 
 ---
