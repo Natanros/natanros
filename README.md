@@ -25,7 +25,3 @@
 📎 [LinkedIn](https://www.linkedin.com/in/nataniel-antonio-da-rosa/)   
 📧 **Email:** natanielros@gmail.com  
 🛠️ [Projetos fixados no topo do perfil](https://github.com/natanros?tab=repositories)
-
----
-
-⭐ *"Código limpo, soluções simples e aprendizado constante."*
