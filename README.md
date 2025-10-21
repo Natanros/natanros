@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Nataniel!
 
 💻 **Analista de Sistemas** com experiência em **JavaScript, TypeScript, Node.js e React.js** , atualmente focado em **Protheus** e **ADVPL**.  
-🎯 Apaixonado por resolver problemas com código e construir soluções inteligentes para o mundo real.
 
 ---
 
