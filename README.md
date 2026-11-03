@@ -78,11 +78,4 @@
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=natanros&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=natanros&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 🛠️ [Veja meus repositórios](https://github.com/natanros?tab=repositories)
